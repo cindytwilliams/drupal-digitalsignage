@@ -16,7 +16,6 @@ function volstate_preprocess_page(&$variables) {
   }
   
   // emergency alerts ticker
-  //drupal_add_js('//web.volstate.edu/_files/js/jquery/plugins/jquery.moment.min.js', 'external');
   drupal_add_js('//web.volstate.edu/_files/js/jquery/plugins/jquery.marquee.min.js', 'external');
   drupal_add_js('//web.volstate.edu/_files/js/vsccAlerts.min.js', 'external');
   drupal_add_css('//web.volstate.edu/_files/css/vsccAlerts.min.css', 'external');

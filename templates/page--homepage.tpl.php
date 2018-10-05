@@ -16,9 +16,6 @@ custom template page for /homepage
 			<div id="clock"></div>
 		</div>
 	</div>
-	    
-	<!--<div class="logo"><a href="/slideshow"><img src="/sites/all/themes/volstate/img/vscc_logo.png" width="250"></a></div>-->
-
 
 	<div class="main-container <?php print $container_class; ?>">		
 		  

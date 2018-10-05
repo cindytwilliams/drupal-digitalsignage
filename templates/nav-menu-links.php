@@ -10,17 +10,9 @@
 </div>
 
 <div class="main-nav">
-   <!--<ul>
-   	<li><a href="/">Home</a></li>
-    <li><a href="/events">Events</a></li>
-    <li><a href="/directory">People Finder</a></li>
-    <li><a href="/map">Campus Map</a></li>
-    <li><a href="/student-services">Student Services</a></li>
-   </ul>-->
-    
-    <?php
+  <?php
     $menu = menu_navigation_links('navigation');
-	print theme('links__navigation', array('links' => $menu));
-	?>
+    print theme('links__navigation', array('links' => $menu));
+  ?>
 	
 </div>
