@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="472.09px" height="778.13px" viewBox="0 0 472.09 778.13" style="enable-background:new 0 0 472.09 778.13;"
+	 xml:space="preserve">
+<g id="Base">
+	<polygon id="Circulation" style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="0.5,165.5 153.5,165.5 153.5,140 
+		188.5,140.5 188.5,152.5 312.5,152.5 312.5,140.5 345.5,140.5 345.5,165.5 470.5,165.5 470.5,369.5 344.5,369.5 344.5,466.5 
+		387.5,466.5 387.5,459.5 463.5,459.5 463.5,623.5 371.5,623.5 371.5,777.5 124.5,777.62 124.5,623.62 31.5,623.5 31.5,457.5 
+		120.5,457.5 120.5,368.5 0.5,368.5 	"/>
+	<polygon id="Restrooms" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="183.75,564.5 246.75,564.5 
+		246.5,628.5 232.5,628.5 232.5,617.5 198.5,617.5 198.5,628.5 183.5,628.5 	"/>
+	<polygon id="DiningRoomB" style="fill:#E8A874;stroke:#000000;stroke-miterlimit:10;" points="0.5,199.5 34.5,199.5 34.5,205.5 
+		120.5,205.5 120.5,337.5 109.5,337.5 109.5,368.5 0.5,368.5 	"/>
+	<polygon id="DiningRoomA" style="fill:#BF58BB;stroke:#000000;stroke-miterlimit:10;" points="153.5,542 153.5,377.5 343.5,377.5 
+		343.5,513.5 352.5,513.5 352.5,532.5 280,532.5 248.12,564.5 176,564.5 	"/>
+	<polygon id="FoodServices" style="fill:#BF58BB;stroke:#000000;stroke-miterlimit:10;" points="352.5,547.5 371.5,547.5 
+		371.5,623.5 352.5,623.5 352.5,628.5 246.5,628.5 246.5,565 279.5,532.5 352.5,532.5 	"/>
+	<rect x="352.5" y="513.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="45.25" height="33.75"/>
+	<rect x="343.5" y="465.75" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="44" height="47.75"/>
+	<rect x="387.5" y="459" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="30" height="54.5"/>
+	<rect x="417.5" y="459" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="46" height="41.5"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="463.75,550.5 432.25,550.5 432.25,525.75 463.5,525.75 	
+		"/>
+	<rect x="442.5" y="550.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="21.25" height="14"/>
+	<rect x="442.5" y="564.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="21.25" height="16"/>
+	<rect x="432.25" y="580.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="31.5" height="43"/>
+	<rect x="352.5" y="623.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="19" height="42.75"/>
+	<rect x="124.75" y="623.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="19" height="42.75"/>
+	<rect id="Elevator" x="153.5" y="247.5" style="fill:#B39E00;stroke:#000000;stroke-miterlimit:10;" width="21.38" height="23"/>
+	<polygon id="Stairs_1_" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" points="188.25,220.5 153.5,220.5 153.5,140 
+		188.5,140.5 	"/>
+	<rect id="Stairs" x="312.5" y="140" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" width="33" height="80.5"/>
+	<rect x="0.5" y="165" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="34" height="34.5"/>
+	<rect x="34.5" y="165" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="86" height="40.5"/>
+	<rect x="120.5" y="165" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="33" height="27.5"/>
+	<rect x="120.5" y="192.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="33" height="28"/>
+	<rect x="188.25" y="152" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="124.25" height="97.5"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="343.5,268.83 312.5,268.5 312.5,220.5 343.5,220.83 	"/>
+	<rect x="360.25" y="264.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="27.25" height="25.5"/>
+	<rect id="Restrooms_1_" x="404.5" y="327" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" width="66" height="42.5"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="404.5" y1="347.75" x2="470.5" y2="347.75"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="215.12" y1="565" x2="215.12" y2="617.5"/>
+</g>
+<g id="Rooms">
+	<a id="R212" xlink:href="#" >
+     <g><polygon id="R212" style="fill:#BF58BB;stroke:#000000;stroke-miterlimit:10;" points="188.5,249.5 312.5,249.5 312.5,268.5 
+		343.5,268.5 343.5,377.5 153.5,377.5 153.5,270.5 188.5,270.5 	"/></g>
+	</a>
+	<a id="R217" xlink:href="#" >
+     <g><rect id="R217" x="124.75" y="666.25" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="246.75" height="110.75"/></g>
+	</a>
+	<a id="R213" xlink:href="#" >
+     <g><rect id="R213" x="31.75" y="457.62" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="77" height="44.12"/></g>
+	</a>
+	<a id="R214" xlink:href="#" >
+     <g><rect id="R214" x="31.75" y="501.75" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="77" height="62.75"/></g>
+	</a>
+	<a id="R215" xlink:href="#" >
+     <g><polygon id="R215" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="133.12,565.12 153.5,584.75 153.5,623.5 
+		31.5,623.5 31.5,565 	"/></g>
+	</a>
+	<a id="R211" xlink:href="#" >
+     <g><rect id="R211" x="343.5" y="165" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="61" height="82.5"/></g>
+	</a>
+	<a id="R206" xlink:href="#" >
+     <g><rect id="R206" x="343.5" y="290" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="44" height="79.5"/></g>
+	</a>
+	<a id="R210" xlink:href="#" >
+     <g><rect id="R210" x="404.5" y="165" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="66" height="162"/></g>
+	</a>
+
+</g>
+<g id="Labels">
+	<text transform="matrix(1 0 0 1 33.1587 21.4132)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Volunteer State Community College </text>
+	<text transform="matrix(1 0 0 1 109.1508 50.8743)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Wood Campus Center </text>
+	<text transform="matrix(1 0 0 1 137.8652 81.8344)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">SECOND FLOOR</text>
+	<polyline id="swatch-pink" style="fill:#993333;" points="266.45,122.21 266.45,100.09 288.56,100.09 288.56,122.21 	"/>
+	<text id="legend-offices" transform="matrix(1 0 0 1 293.927 116.3755)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Offices</text>
+	<polyline id="swatch-pink_2_" style="fill:#BF58BB;" points="15.56,122.21 15.56,100.09 37.67,100.09 37.67,122.21 	"/>
+	<text id="legend-library" transform="matrix(1 0 0 1 41.8264 116.3755)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Food Services/Dining Rooms</text>
+	<polyline id="swatch-pink_1_" style="fill:#E8A874;" points="365.86,122.21 365.86,100.09 387.97,100.09 387.97,122.21 	"/>
+	
+		<text id="legend-library_1_" transform="matrix(1 0 0 1 392.1202 116.3768)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Bookstore</text>
+	
+		<text id="male1_1_" transform="matrix(1 0 0 1 433.2496 365.4998)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:18px;"></text>
+	<polyline id="Stairs_4_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="177.12,186.73 177.12,182.73 
+		177.12,182.78 172.96,182.78 172.96,178.78 168.8,178.77 168.8,174.77 164.62,174.77 164.62,170.77 	"/>
+	
+		<text id="elevator" transform="matrix(1 0 0 1 157.5501 263.3348)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:14px;"></text>
+	
+		<text id="female2_2_" transform="matrix(1 0 0 1 432.2499 344.4171)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:18px;"></text>
+	<polyline id="Stairs_2_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="335.25,188.23 335.25,184.23 
+		335.25,184.28 331.08,184.28 331.08,180.28 326.92,180.27 326.92,176.27 322.75,176.27 322.75,172.27 	"/>
+	
+		<text id="male1_2_" transform="matrix(1 0 0 1 192.5829 599.5004)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:22px;"></text>
+	
+		<text id="female2_1_" transform="matrix(1 0 0 1 222.5833 599.5)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:22px;"></text>
+	<text transform="matrix(1 0 0 1 15.5834 277.25)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Bookstore </tspan><tspan x="24.07" y="21.6" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">212</tspan></text>
+	<text transform="matrix(1 0 0 1 179.451 313.5)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Mary Cole Nichols </tspan><tspan x="10.9" y="21.6" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Dining Room B</tspan></text>
+	<text transform="matrix(1 0 0 1 183.326 457.625)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Mary Cole Nichols </tspan><tspan x="10.27" y="21.6" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Dining Room A</tspan></text>
+	<text transform="matrix(1 0 0 1 289.6593 577.6666)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Food </tspan><tspan x="-11.09" y="21.6" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Services</tspan></text>
+	<text transform="matrix(1 0 0 1 231.5713 730.1664)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">217</text>
+	<text transform="matrix(1 0 0 1 67.7379 601.9997)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">215</text>
+	<text transform="matrix(1 0 0 1 53.3213 541.8334)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">214</text>
+	<text transform="matrix(1 0 0 1 53.3212 486.2497)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">213</text>
+	<text transform="matrix(1 0 0 1 420.5712 253.2497)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">210</text>
+	<text transform="matrix(1 0 0 1 348.5712 337.2497)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">206</text>
+	<text transform="matrix(1 0 0 1 354.5712 213.2497)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:22px;">211</text>
+	<text transform="matrix(1 0 0 1 228.9731 199.5004)" style="font-family:'MyriadPro-Regular'; font-size:18px;">Patio</text>
+</g>
+<g id="Doors">
+	<line id="lcd.1" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="235.5" y1="634" x2="244.26" y2="634"/>
+	<line id="R217_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="258.67" y1="673.75" x2="253" y2="694"/>
+	<line id="R215_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="138.67" y1="580.5" x2="128.33" y2="591.25"/>
+	<line id="R214_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="101" y1="550.5" x2="84.67" y2="547.25"/>
+	<line id="R213_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="101.67" y1="479.69" x2="84.67" y2="479.75"/>
+	<line id="R206_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="383" y1="327" x2="371.5" y2="327"/>
+	<line id="R211_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="371.5" y1="242" x2="365.5" y2="229.33"/>
+	<line id="R210_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="410.33" y1="257" x2="427.67" y2="257"/>
+	<line id="R212" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="93.17" y1="348.25" x2="77.5" y2="337.25"/>
+</g>
+<g id="Portals">
+	
+		<line id="Stair.1.floor1" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="168.73" y1="217.33" x2="168.73" y2="202.67"/>
+	<line id="Elev.1.floor1" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="164.19" y1="249.5" x2="164.19" y2="259"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.26" y1="634" x2="244.26" y2="644.88"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="258.67" y1="644.88" x2="244.26" y2="644.88"/>
+	<path style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" d="M258.67,644.88"/>
+	<path style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" d="M258.33,623.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="258.67" y1="644.88" x2="258.67" y2="673.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.26" y1="644.88" x2="168.25" y2="644.88"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="168.25" y1="576.62" x2="168.25" y2="644.88"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="168.25" y1="576.62" x2="157.31" y2="565.69"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="138.67" y1="580.5" x2="157.31" y2="565.69"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="101" y1="550.5" x2="139.94" y2="548.31"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="157.31" y1="565.69" x2="139.94" y2="548.31"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="139.94" y1="548.31" x2="139.94" y2="479.69"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="101.67" y1="479.69" x2="139.94" y2="479.69"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="164.19" y1="249.5" x2="164.19" y2="235.67"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="139.94" y1="235.67" x2="164.19" y2="235.67"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="168.73" y1="217.33" x2="164.19" y2="235.67"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="326.33" y1="235.67" x2="164.19" y2="235.67"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="410.33" y1="257" x2="395.67" y2="257"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="383" y1="327" x2="395.67" y2="327"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="395.67" y1="257" x2="395.67" y2="327"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="371.5" y1="242" x2="371.5" y2="257"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="395.67" y1="257" x2="371.5" y2="257"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="348.33" y1="257" x2="371.5" y2="257"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="326.33" y1="235.67" x2="348.33" y2="257"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="93.17" y1="348.25" x2="139.94" y2="348.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="139.94" y1="479.69" x2="139.94" y2="348.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="139.94" y1="235.67" x2="139.94" y2="348.25"/>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+name = Vol State
+description = Sub-theme of Bootstrap
+core = 7.x
+base theme = bootstrap
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = ../../libraries/font-awesome/css/font-awesome.min.css
+stylesheets[all][] = css/weather.min.css
+stylesheets[all][] = css/style.min.css
+stylesheets[all][] = css/wayfinding.min.css
+stylesheets[all][] = css/floating-menu.min.css
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; JavaScript
+;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = js/jquery-idleTimeout.min.js
+scripts[] = js/jquery.simpleWeather.min.js
+scripts[] = js/jquery.wayfinding.min.js
+scripts[] = js/jquery-cookie.min.js
+scripts[] = js/functions.min.js
+scripts[] = js/custom.min.js

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="704.44px" height="839.75px" viewBox="0 0 704.44 839.75" style="enable-background:new 0 0 704.44 839.75;"
+	 xml:space="preserve">
+<g id="Base">
+	<polyline id="Circulation" style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="533.5,736.5 533.5,839.25 
+		179.5,838.75 179.5,736.25 232.5,735.75 232.5,708.25 196.5,707.75 196.5,552.25 247.5,552.38 247.42,492 269.42,492 269.5,454 
+		247.5,454 247.5,394 196.75,394 196.25,237.12 230.42,236.81 230.88,210.49 178.5,211.25 178.5,108.25 533.5,107.75 533.5,210.25 
+		482.5,211.25 482.5,237.25 515.5,237 515.5,394 462.75,394 463.08,454 441.75,454 441.08,493 463.75,493 462.42,553 515.75,553 
+		515.38,707.88 483.5,707.25 483.5,736.25 533.5,735.75 533.5,839.25 179.5,838.88 	"/>
+	<polygon id="Restroom" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="369.5,708 419.5,708 419.5,736 
+		408.75,736 408.63,772.94 369.5,772.82 	"/>
+	<polyline id="Restroom_1_" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="303,736 292.5,736 292.5,707.25 
+		342.5,706.75 342.5,773.25 302.38,773.24 302.56,735.62 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="281.42,393.25 281.42,454 247.5,454 247.08,393.25 	"/>
+	
+		<rect x="234.12" y="505.21" transform="matrix(4.489393e-11 -1 1 4.489393e-11 -258.125 786.625)" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="60.25" height="34.33"/>
+	<polyline id="Restroom_2_" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="293.5,237.25 342.38,236.87 
+		342.31,172.25 302.45,172.62 302.75,211 293.5,211 293.5,237.5 	"/>
+	<polygon id="Restroom_3_" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="368.67,237 369.38,172.25 
+		409.5,171.92 409.5,211.25 419.38,210.75 418.67,237 	"/>
+</g>
+<g id="Rooms">
+	<a id="R103" xlink:href="#" >
+		<g><polygon id="R103" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="179.5,839 179.5,736 232.5,736 
+		232.5,708 292.5,708 292.5,736 302.25,736 302,773.62 408.26,773.13 408.75,736 419.5,736 419.5,706.75 483.5,707.25 483.5,736 
+		533.5,736 533.5,839 	"/></g>
+	</a>
+	<a id="R101" xlink:href="#" >
+		<g><rect id="R101" x="374" y="566.5" transform="matrix(4.489748e-11 -1 1 4.489748e-11 -178.5 1081.75)" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="155.25" height="127.25"/></g>
+	</a>
+	<a id="R102" xlink:href="#" >
+		<g><rect id="R102" x="182.38" y="566.38" transform="matrix(4.489748e-11 -1 1 4.489748e-11 -370.125 890.125)" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="155.25" height="127.5"/></g>
+	</a>
+	<a id="R104" xlink:href="#" >
+		<g><rect id="R104" x="181.88" y="251.38" transform="matrix(4.490103e-11 -1 1 4.490103e-11 -55.125 575.125)" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="156.25" height="127.5"/></g>
+	</a>
+	<a id="R105" xlink:href="#" >
+		<g><rect id="R105" x="373.5" y="251.5" transform="matrix(4.490103e-11 -1 1 4.490103e-11 136.5 766.75)" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="156.25" height="127.25"/></g>
+	</a>
+	<a id="R106" xlink:href="#" >
+		<g><polygon id="R106" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="302.54,172.62 409.5,171.92 409.5,211 
+		419.5,211 419.5,237.25 482.5,237 482.5,211.25 533.5,210.58 533.5,108 178.5,108 178.5,211.25 230.88,210.58 230.42,237 
+		292.75,237 292.42,211 302.75,211 	"/></g>
+	</a>
+	<a id="R100" xlink:href="#" >
+		<g><path id="R100" style="fill:#001A72;stroke:#000000;stroke-miterlimit:10;" d="M366.75,536H300.5V410.75l67.08,0.46
+		c22.43,12.81,36.26,36.79,36.09,62.62C403.5,499.67,389.36,523.49,366.75,536z"/></g>
+	</a>
+</g>
+<g id="Labels">
+	
+		<text id="female2_1_" transform="matrix(1 0 0 1 380.1924 750.308)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="male1_1_" transform="matrix(1 0 0 1 316.5002 750.3076)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="female2_2_" transform="matrix(1 0 0 1 380.1925 213.3083)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="male1_2_" transform="matrix(1 0 0 1 317.5003 213.308)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	<text id="title" transform="matrix(1 0 0 1 156.2907 21.4134)"><tspan x="0" y="0" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Volunteer State Community College </tspan><tspan x="127.59" y="30.96" style="font-family:'OptimaLTStd'; font-size:25.7994px;">300 Building</tspan></text>
+	<polyline id="swatch-blue" style="fill:#001A72;" points="147.49,94.09 147.49,71.97 169.6,71.97 169.6,94.09 	"/>
+	<polyline id="swatch-pink" style="fill:#993333;" points="456.26,94.09 456.26,71.97 478.37,71.97 478.37,94.09 	"/>
+	<text id="legend-study" transform="matrix(1 0 0 1 174.0788 88.2537)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Conference Room</text>
+	<text id="legend-offices" transform="matrix(1 0 0 1 483.7336 88.2537)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Offices</text>
+	<polyline id="swatch-pink_2_" style="fill:#006699;" points="323.37,94.09 323.37,71.97 345.48,71.97 345.48,94.09 	"/>
+	<text id="legend-library" transform="matrix(1 0 0 1 349.6329 88.2537)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Classrooms</text>
+	<text transform="matrix(1 0 0 1 245.5 636.75)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">102</text>
+	<text transform="matrix(1 0 0 1 245.5 325.625)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">104</text>
+	<text transform="matrix(1 0 0 1 433.625 636.75)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">101</text>
+	<text transform="matrix(1 0 0 1 433.625 325.6253)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">105</text>
+	<text transform="matrix(1 0 0 1 306.2013 460.3076)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Conference </tspan><tspan x="21.05" y="21.6" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">Room </tspan><tspan x="29.43" y="43.2" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">100</tspan></text>
+	<text transform="matrix(1 0 0 1 342.3766 815.5)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">103</text>
+	<text transform="matrix(1 0 0 1 334.4246 146.5)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:24px;">106</text>
+</g>
+<g id="Doors">
+	<line id="lcd.1" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="438" y1="399.5" x2="451.62" y2="399.5"/>
+	<line id="R106" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="355.59" y1="162.5" x2="355.59" y2="146.5"/>
+	<line id="R104" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="316.5" y1="364.5" x2="292.5" y2="355.5"/>
+	<line id="R105" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="398" y1="360" x2="419.38" y2="354.5"/>
+	<line id="R102" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="316.5" y1="589.5" x2="301.5" y2="599.5"/>
+	<line id="R101" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="394.5" y1="581.5" x2="408.69" y2="594.5"/>
+	<line id="R103" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="356.5" y1="785.5" x2="356.5" y2="806.5"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="355.59" y1="162.5" x2="356" y2="368.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="316.5" y1="364.5" x2="356" y2="368.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="398" y1="360" x2="356" y2="368.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="356.5" y1="399.5" x2="356" y2="368.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="438" y1="399.5" x2="356.5" y2="399.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="419.5" y1="527.5" x2="438" y2="399.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="394.5" y1="581.5" x2="356.5" y2="582"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="316.5" y1="589.5" x2="356.5" y2="582"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="356.5" y1="785.5" x2="356.5" y2="582"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="355.59" y1="546" x2="356.5" y2="582"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="419.5" y1="527.5" x2="355.59" y2="546"/>
+</g>
+</svg>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="406.69px" height="564.5px" viewBox="0 0 406.69 564.5" style="enable-background:new 0 0 406.69 564.5;"
+	 xml:space="preserve">
+<g id="Base">
+	<polyline id="Circulation" style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="78.66,127.18 117.81,127.35 
+		118.68,135.29 159.19,135.03 159.04,126 196.04,126 206.54,134.5 206.54,251.5 198.04,263 184.04,263 184.54,321 329.54,321 
+		329.54,308 347.37,308 347.62,321.5 352.54,321.44 352.37,307.84 372.37,307.5 372.54,321.5 392.38,321 403.54,332.5 403.54,436.5 
+		393.04,448 292.04,448 280.71,436.83 281.04,411 202.04,411 202.54,551.5 192.54,564 89.04,564 75.54,550.5 75.54,513.5 20.79,512 
+		11.54,503.5 11.54,330.5 22.04,321 89.54,321.5 89.54,262.5 79.36,261.83 67.54,249.5 67.54,137.5 78.66,127.18 	"/>
+	<rect x="80.54" y="321" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="30.75" height="25.5"/>
+	<rect id="Restroom" x="162.71" y="321" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" width="83.33" height="27.17"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="204.38" y1="321.5" x2="204.38" y2="348.17"/>
+	<rect x="146.38" y="321.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="16.33" height="26.67"/>
+	<rect x="146.38" y="366.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="26.33" height="29.67"/>
+	<rect x="146.38" y="439.17" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="12.67" height="20.83"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="328.04,411 298.88,411.5 298.88,396.67 328.04,396.17 	
+		"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="111.29" y1="346.5" x2="111.29" y2="365"/>
+	<text id="title" transform="matrix(1 0 0 1 8.802 21.4137)"><tspan x="0" y="0" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Volunteer State Community College </tspan><tspan x="127.59" y="30.96" style="font-family:'OptimaLTStd'; font-size:25.7994px;">300 Building</tspan></text>
+	<polyline id="swatch-blue" style="fill:#001A72;" points="9,94.09 9,71.97 31.11,71.97 31.11,94.09 	"/>
+	<polyline id="swatch-pink" style="fill:#993333;" points="319.77,94.09 319.77,71.97 341.88,71.97 341.88,94.09 	"/>
+	<text id="legend-study" transform="matrix(1 0 0 1 35.5901 88.254)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Conference Room</text>
+	<text id="legend-offices" transform="matrix(1 0 0 1 347.2449 88.254)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Offices</text>
+	<polyline id="swatch-pink_2_" style="fill:#006699;" points="185.88,94.09 185.88,71.97 207.99,71.97 207.99,94.09 	"/>
+	<text id="legend-library" transform="matrix(1 0 0 1 212.1442 88.254)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Classrooms</text>
+</g>
+<g id="Rooms">
+	<a id="R102" xlink:href="#" >
+		<g><polygon id="R102" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="118.54,470.5 118.54,513 20.79,512 
+		11.54,503.5 11.54,412 45.04,412 62.54,394.25 75.04,406.5 75.54,452.75 127.54,452.5 127.54,470.75 	"/></g>
+	</a>
+	<a id="R106" xlink:href="#" >
+		<g><polygon id="R106" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="146.04,460 202.54,460 202.54,551.5 
+		192.54,564 143.54,564 143.54,554 126.54,554 126.54,564 89.04,564 75.54,550.5 75.54,513 118.54,513 118.54,470.5 127.54,470.75 
+		127.54,460 	"/></g>
+	</a>
+	<a id="R104" xlink:href="#" >
+		<g><path id="R104" style="fill:#001A72;stroke:#000000;stroke-miterlimit:10;" d="M54.29,385.5c0.5-1.25,0.12-12.75,0.12-12.75
+		l8.38-7.75h64.25l0.5,87.5l-52,0.25l-0.5-46.25L54.29,385.5z"/></g>
+	</a>
+	<a id="R101" xlink:href="#" >
+		<g><polygon id="R101" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="22.04,321 80.54,321.5 80.54,346.5 
+		11.54,346 11.54,330.5 	"/></g>
+	</a>
+	<a id="R107" xlink:href="#" >
+		<g><polygon id="R107" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="127.04,321 184.54,321 184.54,263 
+		198.04,263 206.54,251.83 206.54,134.5 196.49,126 159.04,126 159.38,134.91 119.04,135.04 118.54,126.85 80.13,126.18 
+		67.54,137.17 67.54,249.5 79.36,261.83 89.54,262.5 89.54,321.5 	"/></g>
+	</a>
+	<a id="R110" xlink:href="#" >
+		<g><rect id="R110" x="172.71" y="366.5" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="66.33" height="44.67"/></g>
+	</a>
+	<a id="R112" xlink:href="#" >
+		<g><rect id="R112" x="239.04" y="366.5" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="41.67" height="44.67"/></g>
+	</a>
+	<a id="R108" xlink:href="#" >
+		<g><rect id="R108" x="146.38" y="396.17" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="26.33" height="43"/></g>
+	</a>
+	<a id="R119" xlink:href="#" >
+		<g><polygon id="R119" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="329.54,348.29 280.71,348.17 280.71,321 
+		329.54,321.13 	"/></g>
+	</a>
+	<a id="R115" xlink:href="#" >
+		<g><polygon id="R115" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="259.88,348.17 246.04,348.17 245.92,321 
+		259.75,321 	"/></g>
+	</a>
+	<a id="R117" xlink:href="#" >
+		<g><rect id="R117" x="259.88" y="321" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="20.83" height="27.17"/></g>
+	</a>
+	<a id="R118" xlink:href="#" >
+		<g><polygon id="R118" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="328.54,396.17 298.88,396.17 298.88,366.5 
+		328.54,366.5 328.54,378.5 	"/></g>
+	</a>
+	<a id="R120" xlink:href="#" >
+		<g><polygon id="R120" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="403.54,379.58 328.54,378.5 328.54,448 
+		393.04,448 403.54,436.5 	"/></g>
+	</a>
+	<a id="R122" xlink:href="#" >
+		<g><polygon id="R122" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="347.54,321.5 347.54,378.5 403.54,379.58 
+		403.54,332.5 392.38,321 	"/></g>
+	</a>
+	<a id="R114" xlink:href="#" >
+		<g><polygon id="R114" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="281.04,411 328.04,411 328.54,448 
+		292.04,448 280.71,436.83 	"/></g>
+	</a>
+	<g><polygon style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="172.54,411 202.04,411 202.54,460 159.04,460 
+		159.54,439 172.54,439 	"/></g>
+</g>
+<g id="Labels">
+	
+		<text id="female2_2_" transform="matrix(1 0 0 1 176.1925 341.8082)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:21px;"></text>
+	
+		<text id="male1_2_" transform="matrix(1 0 0 1 219.0003 341.808)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:21px;"></text>
+	<text transform="matrix(1 0 0 1 64.8149 385.5005)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:12px;">Conference </tspan><tspan x="14.03" y="14.4" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:12px;">Room </tspan><tspan x="19.62" y="28.8" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:12px;">104</tspan></text>
+	<text transform="matrix(1 0 0 1 31.2593 470.2505)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">102</text>
+	<text transform="matrix(1 0 0 1 140.0093 513.0005)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">106</text>
+	<text transform="matrix(1 0 0 1 349.8843 425.0005)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">120</text>
+	<text transform="matrix(1 0 0 1 358.1343 357.2505)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">122</text>
+	<text transform="matrix(1 0 0 1 190.5265 394.2502)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">110</text>
+	<text transform="matrix(1 0 0 1 246.0265 394.2498)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">112</text>
+	<text transform="matrix(1 0 0 1 290.7762 435.5005)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">114</text>
+	<text transform="matrix(1 0 0 1 289.7762 341.8079)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">119</text>
+	<text transform="matrix(1 0 0 1 117.8843 290.2505)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">107</text>
+	<text transform="matrix(1 0 0 1 301.1043 385.5004)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">118</text>
+	<text transform="matrix(1 0 0 1 264.138 337.0835)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:8px;">117</text>
+	<text transform="matrix(1 0 0 1 246.8461 337.0836)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:8px;">115</text>
+	<text transform="matrix(1 0 0 1 148.7713 423.2504)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">108</text>
+	<text transform="matrix(1 0 0 1 33.5213 338.5004)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">101</text>
+</g>
+<g id="Doors">
+	<line id="lcd.1" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="21.04" y1="350.29" x2="32.04" y2="350.29"/>
+	<line id="R102_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="26.54" y1="415.5" x2="32.04" y2="425"/>
+	<line id="R104_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="60.04" y1="385.5" x2="67.54" y2="381.33"/>
+	<line id="R107_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="134.04" y1="315" x2="134.04" y2="302"/>
+	<line id="R106_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="137.04" y1="464.5" x2="137.04" y2="479"/>
+	<line id="R120_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="337.04" y1="381.33" x2="344.04" y2="392"/>
+	<line id="R122_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="353.54" y1="370.5" x2="361.59" y2="365"/>
+	<line id="R119_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="318.54" y1="345" x2="311.88" y2="337.08"/>
+	<line id="R117_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="270.29" y1="345" x2="267.54" y2="337.08"/>
+	<line id="R115_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="253" y1="341.81" x2="253" y2="337.08"/>
+	<line id="R118_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="301.54" y1="375.5" x2="311.88" y2="378.5"/>
+	<line id="R112_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="276.04" y1="377" x2="268.92" y2="378.5"/>
+	<line id="R110_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="204.38" y1="367.75" x2="208.1" y2="379.58"/>
+	<line id="R108_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="149.54" y1="413.25" x2="159.04" y2="413.25"/>
+	<line id="R114_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="289.54" y1="413.25" x2="296.04" y2="425"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="32.04" y1="350.29" x2="26.54" y2="415.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="60.04" y1="385.5" x2="44.29" y2="388.83"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="32.04" y1="350.29" x2="44.29" y2="388.83"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="134.04" y1="315" x2="134.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="32.04" y1="350.29" x2="134.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="149.54" y1="413.25" x2="134.04" y2="413.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="137.04" y1="464.5" x2="134.04" y2="413.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="134.04" y1="353.5" x2="134.04" y2="413.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="204.38" y1="367.75" x2="196.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="134.04" y1="353.5" x2="196.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="253" y1="341.81" x2="253" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="270.29" y1="345" x2="270.29" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="196.04" y1="353.5" x2="253" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="270.29" y1="353.5" x2="253" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="318.54" y1="345" x2="318.54" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="337.04" y1="381.33" x2="329.54" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="353.54" y1="370.5" x2="329.54" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="318.54" y1="353.5" x2="329.54" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="289.54" y1="413.25" x2="288.54" y2="377.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="276.04" y1="377" x2="288.54" y2="377.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="301.54" y1="375.5" x2="288.54" y2="377.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="318.54" y1="353.5" x2="289.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="288.54" y1="377.75" x2="289.04" y2="353.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="270.29" y1="353.5" x2="289.04" y2="353.5"/>
+</g>
+</svg>

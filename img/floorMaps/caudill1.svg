@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800.99px" height="646.37px" viewBox="0 0 800.99 646.37" style="enable-background:new 0 0 800.99 646.37;"
+	 xml:space="preserve">
+<g id="Base">
+	<polyline id="Circulation" style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="763.99,434.87 800.49,434.87 
+		800.49,357.87 763.93,357.87 763.01,182.87 609.49,182.87 609.49,145.78 527.49,144.41 527.49,181.06 399.49,181.67 399.49,216.07 
+		368.41,215.36 266.99,258.87 148.43,258.87 122.02,283.7 97.57,282.54 74.95,258.42 64.49,257.84 64.49,193.96 18.49,193.69 
+		18.49,258.87 1.91,258.87 2.52,532 72.88,532.85 98.68,508.22 121.4,507.99 145.36,533.87 266.37,533.87 369.76,575.7 
+		399.2,575.28 398.72,609.87 526.21,609.87 526.82,645.87 607.49,645.87 607.49,609.87 673.63,609.87 763.93,609.87 763.04,434.84 	
+		"/>
+	
+		<rect id="Elevator" x="614.97" y="382.23" transform="matrix(4.492146e-11 -1 1 4.492146e-11 236.115 1026.3829)" style="fill:#999933;stroke:#000000;stroke-miterlimit:10;" width="32.56" height="25.8"/>
+	<polygon id="Stairs_1" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" points="526.82,645.18 526.1,610.17 
+		574.49,608.29 574.49,595.87 609.14,595.87 608.21,645.08 	"/>
+	<polygon id="Stairs_2" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" points="527.49,144.41 609.49,145.78 
+		609.49,180.56 609.54,182.63 609.96,192.76 574.32,191.64 575.37,182.31 527.49,181.06 	"/>
+	<polygon id="Stairs_3" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" points="445.12,433.87 469.49,433.87 
+		469.49,483.87 432.49,482.81 444.82,465.32 	"/>
+	<polygon id="Restroom_1" style="fill:#17C0DB;stroke:#000000;stroke-miterlimit:10;" points="574.49,465.87 574.49,448.27 
+		561.22,434.87 472.77,434.87 471.85,486.58 558.13,485.71 557.97,465.87 	"/>
+	<polygon id="Restroom_2" style="fill:#17C0DB;stroke:#000000;stroke-miterlimit:10;" points="469.49,537.87 469.49,486.97 
+		557.49,486.05 557.49,509.08 574.49,509.12 574.49,537.87 	"/>
+	<polygon style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="18.49,193.87 64.49,193.87 64.49,257.84 18.49,258.16 
+			"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="1.91,258.19 75.25,258.38 97.29,283.05 97.42,347.87 
+		80.49,347.87 80.49,354.02 0.51,354.78 	"/>
+	<polygon id="Restroom3" style="fill:#17C0DB;stroke:#000000;stroke-miterlimit:10;" points="52.49,353.87 52.49,373.87 
+		39.49,373.87 39.49,444.31 56.49,444.01 56.49,458.64 1.49,459.06 1.49,353.87 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="2.52,531.85 1.6,460.02 97.88,458.18 98.66,507.28 
+		72.88,532.77 	"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="75.49,485.78 75.49,459.06 97.97,458.18 98.52,507.28 	
+		"/>
+	<polygon style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="496.49,537.87 496.49,609.87 530.49,609.87 
+		530.49,576.07 530.49,537.87 	"/>
+	<polyline style="fill:none;stroke:#000000;stroke-miterlimit:10;" points="529.99,575.87 496.49,575.87 496.49,609.87 
+		398.72,609.87 399.51,550.24 430.49,519.87 430.49,483.87 469.49,483.87 469.49,537.87 495.99,537.87 	"/>
+	<rect x="747.49" y="357.87" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="53" height="77"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="779.73" y1="357.7" x2="779.73" y2="435.1"/>
+	<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="2.52" y1="404.04" x2="41.22" y2="404.04"/>
+</g>
+<g id="Rooms">
+	<a id="R109" xlink:href="#" >
+		<g><rect id="R109" x="674.49" y="434.87" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90" height="88"/></g>
+	</a>
+	<a id="R111" xlink:href="#" >
+		<g><rect id="R111" x="674.49" y="522.87" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90" height="91"/></g>
+	</a>
+
+	<a id="R103" xlink:href="#" >
+		<g><polygon id="R103" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="767.49,357.87 622.03,357.87 609.49,345.07 
+		609.49,284.87 620.19,284.87 620.81,271.87 767.49,271.87 	"/></g>
+	</a>
+
+	<a id="R101" xlink:href="#" >
+		<g><polygon id="R101" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="609.49,253.25 609.49,180.56 765.78,182.69 
+		766.37,271.87 620.49,271.87 620.49,254.77 	"/></g>
+	</a>
+
+	<a id="R110" xlink:href="#" >
+		<g><polygon id="R110" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="530.49,553.62 574.49,553 574.49,610.13 
+		530.49,610.74 	"/></g>
+	</a>
+
+	<a id="R113" xlink:href="#" >
+		<g><polygon id="R113" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="608.21,570.87 607.88,550.87 617.49,550.87 
+		617.49,534.88 674.49,536.11 674.49,570.87 	"/></g>
+	</a>
+
+	<a id="R115" xlink:href="#" >
+		<g><polygon id="R115" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="608.52,613.87 608.21,570.87 674.55,570.87 
+		674.86,613.87 	"/></g>
+	</a>
+
+	<a id="R105" xlink:href="#" >
+		<g><polygon id="R105" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" points="640.49,433.87 620.19,433.87 607.49,444.58 
+		607.49,507.87 640.49,507.87 	"/></g>
+	</a>
+
+	<a id="R107" xlink:href="#" >
+		<g><rect id="R107" x="640.49" y="456.87" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="34" height="51"/></g>
+	</a>
+
+	<a id="R102" xlink:href="#" >
+		<g><polygon id="R102" style="fill:#001A72;stroke:#000000;stroke-miterlimit:10;" points="446.49,181.71 446.49,214.88 435.49,236.54 
+		435.49,303.34 446.49,324.99 446.49,357.87 560.89,357.87 574.71,342.93 560.72,331.48 574.49,318.08 574.49,216.73 560.72,203.37 
+		573.97,190.47 575.4,182.31 	"/></g>
+	</a>
+
+	<a id="R119" xlink:href="#" >
+		<g><path id="R119" style="fill:#001A72;stroke:#000000;stroke-miterlimit:10;" d="M435.49,274.47l-35.43-36.09l-2.05-22.3
+		l-28.94-1.76l-103.18,44.5l-68.93,59.73l0.58-60.31l-47.49-1.73l-27.8,26.05l-25.76,0.03v61.3c0,0-16-1.61-16,0.81
+		c0,2.42,0,25.18,0,25.18H96.5l1.38,73H79.49v15.64l17.72-0.33l1.62,49.46l22.3,1.71l24.59,25.04l52.77,0.23v-65.42l68.66,65.42
+		c0,0,102.22,42.46,104.65,42.38c4-0.13,27.59-1.84,27.59-1.84l0.69-24.76l30.41-30.52v-34.09l14.09-20.89l0.55-31.02h33.37v-75.25
+		l-32-0.92v-32.25l-11-22.11V274.47z"/></g>
+	</a>
+
+</g>
+
+<g id="Labels">
+	
+		<text transform="matrix(1 0 0 1 664.8832 242.5259)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">101</text>
+	
+		<text transform="matrix(1 0 0 1 664.8871 324.9907)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">103</text>
+	
+		<text transform="matrix(1 0 0 1 692.5277 486.0474)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">109</text>
+	
+		<text transform="matrix(1 0 0 1 694.3705 575.1538)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">111</text>
+	
+		<text transform="matrix(1 0 0 1 479.8099 271.0894)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">102</text>
+	
+		<text id="_x31_13" transform="matrix(1 0 0 1 628.6176 562.7153)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:20.2709px;">113</text>
+	
+		<text transform="matrix(1 0 0 1 628.6176 598.6499)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:20.2709px;">115</text>
+	
+		<text id="_x31_10" transform="matrix(1 0 0 1 536.015 588.5132)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:20.2709px;">110</text>
+	
+		<text id="_x31_05" transform="matrix(1 0 0 1 607.8832 486.0474)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:20.2709px;">105</text>
+	
+		<text id="_x31_07" transform="matrix(1 0 0 1 641.5375 486.0474)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:20.2709px;">107</text>
+	
+		<text id="_x31_19" transform="matrix(1 0 0 1 276.64 389.4595)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:33.1706px;">119</text>
+	
+		<text id="female2" transform="matrix(1 0 0 1 507.6166 517.6362)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="female1" transform="matrix(1 0 0 1 11.7816 440.6443)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="male2" transform="matrix(1 0 0 1 13.4886 388.821)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="male1" transform="matrix(1 0 0 1 509.2953 468.272)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	<polyline id="stairs2" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="553.99,616.87 562.49,616.87 
+		562.49,622.14 568.49,622.22 568.49,627.87 577.48,627.87 577.65,632.97 	"/>
+	<polyline id="stairs1" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="447.99,453.87 453.49,453.87 
+		453.49,458.13 460.49,458.21 460.49,464.58 466.82,464.34 466.82,469.55 	"/>
+	<polyline id="stairs1_1_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="555.99,159.87 562.49,159.87 
+		562.49,163.28 568.49,163.36 568.49,167.49 573.49,167.47 573.49,172.37 	"/>
+	<text id="title" transform="matrix(1 0 0 1 199.4247 21.4136)"><tspan x="0" y="0" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Volunteer State Community College </tspan><tspan x="93.9" y="30.96" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Noble Caudill Hall </tspan><tspan x="121.19" y="61.92" style="font-family:'OptimaLTStd-Bold'; font-size:25.7994px;">FIRST FLOOR</tspan></text>
+	<rect id="swatch-blue" x="204.62" y="102.97" style="fill:#006699;" width="22.11" height="22.11"/>
+	<rect id="swatch-navy" x="349.45" y="102.97" style="fill:#001A72;" width="22.11" height="22.11"/>
+	<rect id="swatch-pink" x="508.39" y="102.97" style="fill:#993333;" width="22.11" height="22.11"/>
+	
+		<text id="legend-classrooms" transform="matrix(1 0 0 1 233.1786 119.2539)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Classrooms</text>
+	
+		<text id="legend-lecture" transform="matrix(1 0 0 1 376.6088 119.2539)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Lecture Halls</text>
+	
+		<text id="legend-offices" transform="matrix(1 0 0 1 535.8676 119.2539)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Offices</text>
+	
+		<text id="elevator" transform="matrix(1 0 0 1 623.9388 400.0923)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:16.5853px;"></text>
+</g>
+<g id="Portals">
+	<line id="Elev.1.floor2"  x1="622.17" y1="394.33" x2="626.71" y2="397.09"/>
+	<line id="Stair.1.floor2" x1="580.7" y1="167.89" x2="567.34" y2="153.38"/>
+	<line id="Stair.2.floor2" x1="581.07" y1="630.98" x2="567.87" y2="617.15"/>
+</g>
+<g id="Doors">
+	<line id="lcd.1" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="615.89" y1="357.59" x2="610.67" y2="351.96"/>
+	<line id="R111_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="692.53" y1="530.86" x2="681.47" y2="529.02"/>
+	<line id="R109_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="693.38" y1="510.43" x2="680.46" y2="511.29"/>
+	<line id="R103_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="630.9" y1="279.08" x2="644.41" y2="282.15"/>
+	<line id="R101_2_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="629.54" y1="259.69" x2="643.86" y2="256.62"/>
+	<line id="R102_x5F_2" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="555.69" y1="220.41" x2="565.96" y2="211.89"/>
+	<line id="R102_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="565.5" y1="339.27" x2="555.69" y2="346.41"/>
+	<line id="R110_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="570.44" y1="562.71" x2="558.59" y2="565.94"/>
+	<line id="R115_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="613.28" y1="577.92" x2="622.17" y2="582.98"/>
+	<line id="R113_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="622.17" y1="541.98" x2="631.25" y2="546.13"/>
+	<line id="R107_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="655.34" y1="504.2" x2="657.87" y2="493.15"/>
+	<line id="R105_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="609.73" y1="449.38" x2="618.35" y2="457.21"/>
+	<line id="R119_x5F_2" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="476.81" y1="370.7" x2="461.84" y2="374.98"/>
+	<line id="R119" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="475.66" y1="418.05" x2="461.84" y2="411.41"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="580.7" y1="167.89" x2="594.49" y2="209.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="565.96" y1="211.89" x2="594.49" y2="209.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="629.54" y1="259.69" x2="595.49" y2="258.19"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.49" y1="209.37" x2="595.49" y2="258.19"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="630.9" y1="279.08" x2="594.99" y2="280.62"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="595.49" y1="258.19" x2="594.99" y2="280.62"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="565.5" y1="339.27" x2="594.99" y2="333.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="280.62" x2="594.99" y2="333.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="610.67" y1="351.96" x2="594.99" y2="351.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="333.87" x2="594.99" y2="351.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="476.81" y1="370.7" x2="594.99" y2="368.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="351.87" x2="594.99" y2="368.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="622.17" y1="394.33" x2="595.24" y2="395.14"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="368.37" x2="595.24" y2="395.14"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="475.66" y1="418.05" x2="594.99" y2="414.73"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="595.24" y1="395.14" x2="594.99" y2="414.73"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="609.73" y1="449.38" x2="595.24" y2="449.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="414.73" x2="595.24" y2="449.37"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="655.34" y1="504.2" x2="651.49" y2="511.96"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="595.24" y1="449.37" x2="594.99" y2="511.96"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="651.49" y1="511.96" x2="594.99" y2="511.96"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="680.46" y1="511.29" x2="651.49" y2="522.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="511.96" x2="594.99" y2="522.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="651.49" y1="522.87" x2="594.99" y2="522.87"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="681.47" y1="529.02" x2="594.99" y2="529.94"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="522.87" x2="594.99" y2="529.94"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="622.17" y1="541.98" x2="595.24" y2="544.06"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="529.94" x2="595.24" y2="544.06"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="570.44" y1="562.71" x2="594.99" y2="553"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="595.24" y1="544.06" x2="594.99" y2="553"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="613.28" y1="577.92" x2="594.99" y2="577"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="594.99" y1="553" x2="594.99" y2="577"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="581.07" y1="630.98" x2="594.99" y2="577"/>
+</g>
+</svg>

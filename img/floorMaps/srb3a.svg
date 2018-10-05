@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="573px" height="847.16px" viewBox="0 0 573 847.16" style="enable-background:new 0 0 573 847.16;" xml:space="preserve">
+<g id="Base">
+	<polygon id="Circulation" style="fill:#D3D3D3;stroke:#000000;stroke-miterlimit:10;" points="204,204.01 204,174.5 237,174.5 
+		237,176.5 242.5,176.5 407,176.5 407,182.5 449,182.5 449.25,243.5 474.25,243.5 474,281.5 491,281.5 491,448.5 519,448.5 
+		519,495.5 537,495.5 537.5,571.5 491.17,571.5 491,794.5 344,794.5 344,805.5 256,805.5 256,794.5 211,794.5 211,805.5 203,805.5 
+		203,748 182,495 182,454.5 105,454.75 105,204.26 	"/>
+	<rect id="Elevator_1_" x="400" y="495" style="fill:#BF9C10;stroke:#000000;stroke-miterlimit:10;" width="33.33" height="19.54"/>
+	<rect id="Stairs" x="491.17" y="495" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" width="46.33" height="76.67"/>
+	
+		<rect id="Elevator" x="181.5" y="259.33" style="fill:#BF9C10;stroke:#000000;stroke-miterlimit:10;" width="35.33" height="21.67"/>
+	
+		<rect id="Stairs_1_" x="256.5" y="767.67" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" width="87.67" height="37.67"/>
+	<polygon id="Restroom" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="400,537.5 400,514.5 433,514.54 
+		433,510.5 457,510.5 457,562.5 418,562.5 418,537.5 	"/>
+	<polygon id="Restroom_1_" style="fill:#00CCCC;stroke:#000000;stroke-miterlimit:10;" points="491,571.5 400,571.5 400.17,562.36 
+		457.17,562.52 456.92,522.67 491,522.5 	"/>
+	<rect x="433.33" y="495" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="23.67" height="15.5"/>
+	<rect x="457" y="495" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="34" height="27.5"/>
+	<rect x="354.17" y="495" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="22.17" height="35.67"/>
+	<rect x="354.17" y="530.67" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="22.17" height="34.33"/>
+	<polygon id="Stairs_2_" style="fill:#4c4c4c;stroke:#000000;stroke-miterlimit:10;" points="431,249.5 449,249.5 449,182.5 
+		407,182.5 407,261.5 431,261.5 	"/>
+	<rect x="185.5" y="281" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="31.33" height="21.25"/>
+	<rect x="105.17" y="277" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="49.83" height="33.25"/>
+	<rect x="105.17" y="204.25" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="111.67" height="145.42"/>
+</g>
+<g id="Rooms">
+	<a id="R356" xlink:href="#" >
+		<g><polygon id="R356" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="407.17,238.33 242.5,238.67 242.5,176.33 
+		407.17,176 	"/></g>
+	</a>
+	<a id="R352" xlink:href="#" >
+		<g><rect id="R352" x="400.5" y="281" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="55"/></g>
+	</a>
+	<a id="R353" xlink:href="#" >
+		<g><rect id="R353" x="400.5" y="336" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="49"/></g>
+	</a>
+	<a id="R354" xlink:href="#" >
+		<g><rect id="R354" x="400.5" y="385" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="69.33"/></g>
+	</a>
+	<a id="R351" xlink:href="#" >
+		<g><rect id="R351" x="308.83" y="360.5" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="67" height="93.83"/></g>
+	</a>
+	<a id="R350" xlink:href="#" >
+		<g><rect id="R350" x="242.5" y="360.5" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="66.33" height="93.83"/></g>
+	</a>
+	<a id="R364" xlink:href="#" >
+		<g><rect id="R364" x="105.17" y="349.67" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="111.67" height="49"/></g>
+	</a>
+	<a id="R365" xlink:href="#" >
+		<g><rect id="R365" x="105.17" y="398.67" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="111.67" height="55.67"/></g>
+	</a>
+	<a id="R361" xlink:href="#" >
+		<g><rect id="R361" x="242.5" y="257.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="26" height="31.67"/></g>
+	</a>
+	<a id="R360" xlink:href="#" >
+		<g><rect id="R360" x="268.5" y="257.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="27.09" height="31.67"/></g>
+	</a>
+	<a id="R359" xlink:href="#" >
+		<g><rect id="R359" x="295.59" y="257.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="26.58" height="31.67"/></g>
+	</a>
+	<a id="R358" xlink:href="#" >
+		<g><rect id="R358" x="322.17" y="257.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="27" height="31.67"/></g>
+	</a>
+	<a id="R357" xlink:href="#" >
+		<g><rect id="R357" x="349.17" y="257.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="26.67" height="31.67"/></g>
+	</a>
+	<a id="R369" xlink:href="#" >
+		<g><rect id="R369" x="335.67" y="289" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="40.17" height="22.67"/></g>
+	</a>
+	<a id="R368" xlink:href="#" >
+		<g><rect id="R368" x="295.59" y="289" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="40.08" height="22.67"/></g>
+	</a>
+	<a id="R367" xlink:href="#" >
+		<g><rect id="R367" x="268.5" y="289" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="27.09" height="22.67"/></g>
+	</a>
+	<a id="R366" xlink:href="#" >
+		<g><rect id="R366" x="242.5" y="289" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="26" height="22.67"/></g>
+	</a>
+	<a id="R370" xlink:href="#" >
+		<g><rect id="R370" x="335.67" y="327.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="40.17" height="32.83"/></g>
+	</a>
+	<a id="R371" xlink:href="#" >
+		<g><rect id="R371" x="295.59" y="327.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="40.08" height="32.83"/></g>
+	</a>
+	<a id="R372" xlink:href="#" >
+		<g><rect id="R372" x="268.5" y="327.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="27.09" height="32.83"/></g>
+	</a>
+	<a id="R373" xlink:href="#" >
+		<g><rect id="R373" x="242.5" y="327.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="26" height="32.83"/></g>
+	</a>
+	<a id="R307" xlink:href="#" >
+		<g><polygon id="R307" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" points="491.17,618 400.5,618 400.12,571.67 
+		491.17,571.67 	"/></g>
+	</a>
+	<a id="R308" xlink:href="#" >
+		<g><rect id="R308" x="400.5" y="618" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="57.33"/></g>
+	</a>
+	<a id="R309" xlink:href="#" >
+		<g><rect id="R309" x="400.5" y="675.33" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="57.33"/></g>
+	</a>
+	<a id="R310" xlink:href="#" >
+		<g><rect id="R310" x="400.5" y="732.67" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="90.67" height="61.83"/></g>
+	</a>
+	<a id="R337" xlink:href="#" >
+		<g><rect id="R337" x="230.17" y="495" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="64" height="70"/></g>
+	</a>
+	<a id="R338" xlink:href="#" >
+		<g><rect id="R338" x="294.17" y="495" style="fill:#006699;stroke:#000000;stroke-miterlimit:10;" width="60" height="70"/></g>
+	</a>
+	<a id="R332" xlink:href="#" >
+		<g><rect id="R332" x="347.22" y="565" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.11" height="26.5"/></g>
+	</a>
+	<a id="R333" xlink:href="#" >
+		<g><rect id="R333" x="319.17" y="565" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.05" height="26.5"/></g>
+	</a>
+	<a id="R334" xlink:href="#" >
+		<g><rect id="R334" x="290.5" y="565" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.67" height="26.5"/></g>
+	</a>
+	<a id="R335" xlink:href="#" >
+		<g><rect id="R335" x="260.72" y="565" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.78" height="26.5"/></g>
+	</a>
+	<a id="R336" xlink:href="#" >
+		<g><rect id="R336" x="230.17" y="565" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="30.55" height="26.5"/></g>
+	</a>
+	<a id="R331" xlink:href="#" >
+		<g><rect id="R331" x="347.22" y="608.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.11" height="31"/></g>
+	</a>
+	<a id="R330" xlink:href="#" >
+		<g><rect id="R330" x="319.17" y="608.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.05" height="31"/></g>
+	</a>
+	<a id="R329" xlink:href="#" >
+		<g><rect id="R329" x="290.5" y="608.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.67" height="31"/></g>
+	</a>
+	<a id="R328" xlink:href="#" >
+		<g><rect id="R328" x="260.5" y="608.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="30" height="31"/></g>
+	</a>
+	<a id="R327" xlink:href="#" >
+		<g><rect id="R327" x="228.83" y="608.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="31.67" height="31"/></g>
+	</a>
+	<a id="R322" xlink:href="#" >
+		<g><rect id="R322" x="347.22" y="639.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.11" height="29.11"/></g>
+	</a>
+	<a id="R323" xlink:href="#" >
+		<g><rect id="R323" x="319.17" y="639.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.05" height="29.11"/></g>
+	</a>
+	<a id="R324" xlink:href="#" >
+		<g><rect id="R324" x="290.5" y="639.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.67" height="29.11"/></g>
+	</a>
+	<a id="R325" xlink:href="#" >
+		<g><rect id="R325" x="260.5" y="639.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="30" height="29.11"/></g>
+	</a>
+	<a id="R326" xlink:href="#" >
+		<g><rect id="R326" x="228.83" y="639.33" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="31.67" height="29.11"/></g>
+	</a>
+	<a id="R321" xlink:href="#" >
+		<g><rect id="R321" x="347.22" y="686.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.11" height="29.11"/></g>
+	</a>
+	<a id="R320" xlink:href="#" >
+		<g><rect id="R320" x="319.17" y="686.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.05" height="29.11"/></g>
+	</a>
+	<a id="R319" xlink:href="#" >
+		<g><rect id="R319" x="290.5" y="686.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.67" height="29.11"/></g>
+	</a>
+	<a id="R318" xlink:href="#" >
+		<g><rect id="R318" x="260.5" y="686.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="30" height="29.11"/></g>
+	</a>
+	<a id="R317" xlink:href="#" >
+		<g><rect id="R317" x="228.83" y="686.67" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="31.89" height="29.11"/></g>
+	</a>
+	<a id="R311" xlink:href="#" >
+		<g><rect id="R311" x="347.22" y="715.78" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="29.11" height="31.89"/></g>
+	</a>
+	<a id="R313" xlink:href="#" >
+		<g><rect id="R313" x="319.17" y="715.78" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.05" height="31.89"/></g>
+	</a>
+	<a id="R314" xlink:href="#" >
+		<g><rect id="R314" x="290.5" y="715.78" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="28.67" height="31.89"/></g>
+	</a>
+	<a id="R315" xlink:href="#" >
+		<g><rect id="R315" x="260.5" y="715.78" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="30" height="31.89"/></g>
+	</a>
+	<a id="R316" xlink:href="#" >
+		<g><rect id="R316" x="228.83" y="715.78" style="fill:#993333;stroke:#000000;stroke-miterlimit:10;" width="31.89" height="31.89"/></g>
+	</a>
+	<a id="R355" xlink:href="#" >
+		<g><path id="R355" style="fill:#00B438;stroke:#000000;stroke-miterlimit:10;" d="M449,243.5h26v37c0,0-43,1-43,0c0-2,0-31,0-31h17
+		V243.5z"/></g>
+	</a>
+</g>
+<g id="Labels">
+	<text transform="matrix(1 0 0 1 92.7053 21.4132)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">Volunteer State Community College </text>
+	<text transform="matrix(1 0 0 1 152.2112 50.8743)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">SRB Humanities Building </text>
+	<text transform="matrix(1 0 0 1 214.6307 81.8344)" style="font-family:'OptimaLTStd'; font-size:25.7994px;">THIRD FLOOR</text>
+	<polyline id="swatch-pink" style="fill:#993333;" points="319.74,120.21 319.74,98.09 341.85,98.09 341.85,120.21 	"/>
+	
+		<text id="legend-offices" transform="matrix(1 0 0 1 347.2195 114.3756)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Offices</text>
+	<polyline id="swatch-pink_2_" style="fill:#006699;" points="187.85,120.21 187.85,98.09 209.96,98.09 209.96,120.21 	"/>
+	
+		<text id="legend-library" transform="matrix(1 0 0 1 214.1188 114.3756)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Classrooms</text>
+	<polyline id="swatch-pink_1_" style="fill:#001A72;" points="152.94,155.21 152.94,133.09 175.05,133.09 175.05,155.21 	"/>
+	
+		<text id="legend-library_1_" transform="matrix(1 0 0 1 179.2002 149.3768)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Auditorium</text>
+	<polyline id="swatch-pink_3_" style="fill:#00B438;" points="280.94,155.21 280.94,133.09 303.05,133.09 303.05,155.21 	"/>
+	
+		<text id="legend-library_2_" transform="matrix(1 0 0 1 307.2002 149.3768)" style="font-family:'OptimaLTStd'; font-size:16.5853px;">Conference Rooms</text>
+	
+		<text id="elevator" transform="matrix(-1 0 0 -1 205.5 265.207)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:14px;"></text>
+	<polyline id="Stairs_3_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="434.25,227.28 434.25,223.28 
+		434.25,223.33 430.08,223.33 430.08,219.33 425.92,219.33 425.92,215.33 421.75,215.33 421.75,211.33 	"/>
+	
+		<text id="female2_1_" transform="matrix(1 0 0 1 427.9998 545.5798)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="male1_1_" transform="matrix(1 0 0 1 466.7565 554.2073)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:25.7994px;"></text>
+	
+		<text id="elevator_1_" transform="matrix(-1 0 0 -1 423.5 499.873)" style="fill:#FFFFFF; font-family:'FontAwesome'; font-size:14px;"></text>
+	<polyline id="Stairs_4_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="520.58,538.64 520.58,534.64 
+		520.58,534.69 516.41,534.69 516.41,530.69 512.25,530.69 512.25,526.69 508.08,526.69 508.08,522.69 	"/>
+	<polyline id="Stairs_5_" style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" points="306.58,794.47 306.58,790.47 
+		306.58,790.53 302.41,790.53 302.41,786.53 298.25,786.53 298.25,782.53 294.08,782.53 294.08,778.53 	"/>
+	<text transform="matrix(1 0 0 1 428.8333 769.667)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">310</text>
+	<text transform="matrix(1 0 0 1 428.8336 711.0003)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">309</text>
+	<text transform="matrix(1 0 0 1 428.834 653.8903)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">308</text>
+	<text transform="matrix(1 0 0 1 428.8343 601.3337)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">307</text>
+	<text transform="matrix(1 0 0 1 308.8333 538.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">338</text>
+	<text transform="matrix(1 0 0 1 244.8865 538.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">337</text>
+	<text transform="matrix(1 0 0 1 234.4998 583.3083)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">336</text>
+	<text transform="matrix(1 0 0 1 264.4998 583.3081)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">335</text>
+	<text transform="matrix(1 0 0 1 294.0831 583.3081)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">334</text>
+	<text transform="matrix(1 0 0 1 321.2496 583.3081)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">333</text>
+	<text transform="matrix(1 0 0 1 351.1664 583.3078)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">332</text>
+	<text transform="matrix(1 0 0 1 233.4995 628.975)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">327</text>
+	<text transform="matrix(1 0 0 1 264.4995 628.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">328</text>
+	<text transform="matrix(1 0 0 1 294.0829 628.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">329</text>
+	<text transform="matrix(1 0 0 1 322.1664 628.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">330</text>
+	<text transform="matrix(1 0 0 1 351.1662 628.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">331</text>
+	<text transform="matrix(1 0 0 1 233.4993 658.975)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">326</text>
+	<text transform="matrix(1 0 0 1 264.4993 658.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">325</text>
+	<text transform="matrix(1 0 0 1 294.0826 658.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">324</text>
+	<text transform="matrix(1 0 0 1 322.1662 658.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">323</text>
+	<text transform="matrix(1 0 0 1 351.1662 658.9747)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">322</text>
+	<text transform="matrix(1 0 0 1 234.5 706.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">317</text>
+	<text transform="matrix(1 0 0 1 264.4993 706.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">318</text>
+	<text transform="matrix(1 0 0 1 294.0826 706.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">319</text>
+	<text transform="matrix(1 0 0 1 322.1662 706.6418)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">320</text>
+	<text transform="matrix(1 0 0 1 351.1662 706.6418)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">321</text>
+	<text transform="matrix(1 0 0 1 233.7764 735.3652)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">316</text>
+	<text transform="matrix(1 0 0 1 264.4993 735.3653)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">315</text>
+	<text transform="matrix(1 0 0 1 294.0826 735.3654)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">314</text>
+	<text transform="matrix(1 0 0 1 321.2496 735.3654)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">313</text>
+	<text transform="matrix(1 0 0 1 351.1662 735.3653)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:14px;">311</text>
+	<text transform="matrix(1 0 0 1 144.3865 431.1417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">365</text>
+	<text transform="matrix(1 0 0 1 144.3862 382.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">364</text>
+	<text transform="matrix(1 0 0 1 260.7192 419.6668)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">350</text>
+	<text transform="matrix(1 0 0 1 324.8331 419.6667)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">351</text>
+	<text transform="matrix(1 0 0 1 427.9993 426.5001)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">352</text>
+	<text transform="matrix(1 0 0 1 427.9995 369.6417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">353</text>
+	<text transform="matrix(1 0 0 1 428.8341 315.1417)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">354</text>
+	<text transform="matrix(1 0 0 1 439.8865 269.1667)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:18px;">355</text>
+	<text transform="matrix(1 0 0 1 306.7198 211.975)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:21px;">356</text>
+	<text transform="matrix(1 0 0 1 304.8335 349.6667)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:16px;">371</text>
+	<text transform="matrix(1 0 0 1 342.3331 349.6668)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:16px;">370</text>
+	<text transform="matrix(1 0 0 1 342.3329 305.5001)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:16px;">369</text>
+	<text transform="matrix(1 0 0 1 303.0479 305.5001)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:16px;">368</text>
+	<text transform="matrix(1 0 0 1 270.5005 349.6665)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">372</text>
+	<text transform="matrix(1 0 0 1 243.6671 349.6665)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">373</text>
+	<text transform="matrix(1 0 0 1 270.5009 305.5006)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">367</text>
+	<text transform="matrix(1 0 0 1 243.6676 305.5005)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">366</text>
+	<text transform="matrix(1 0 0 1 243.6671 280.9449)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">361</text>
+	<text transform="matrix(1 0 0 1 270.5013 281.0005)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">360</text>
+	<text transform="matrix(1 0 0 1 297.201 281.001)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">359</text>
+	<text transform="matrix(1 0 0 1 323.8338 281.0015)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">358</text>
+	<text transform="matrix(1 0 0 1 351.1669 281.002)" style="fill:#FFFFFF; font-family:'MyriadPro-Regular'; font-size:15px;">357</text>
+</g>
+<g id="Doors">
+	<line id="R356_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="248.5" y1="222" x2="260.5" y2="219.31"/>
+	<line id="R364_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="211" y1="360.5" x2="201.17" y2="364.5"/>
+	<line id="R365_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="211.5" y1="447" x2="201.17" y2="442"/>
+	<line id="R350_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="295.59" y1="440" x2="299.2" y2="451"/>
+	<line id="R351_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="322.17" y1="441" x2="319.17" y2="450"/>
+	<line id="R352_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="407" y1="393" x2="416.67" y2="398.67"/>
+	<line id="R353_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="407" y1="378" x2="414" y2="374.17"/>
+	<line id="R354_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="407" y1="327.67" x2="414" y2="324"/>
+	<line id="R356_2_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="387.5" y1="222" x2="392.5" y2="234"/>
+	<line id="R355_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="437.89" y1="270.17" x2="449" y2="268"/>
+	<line id="R361_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="255.5" y1="261.5" x2="255.5" y2="270.17"/>
+	<line id="R360_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="282.05" y1="261.5" x2="282.05" y2="270.17"/>
+	<line id="R359_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="308.83" y1="261.5" x2="308.83" y2="270.17"/>
+	<line id="R358_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="335.67" y1="261.5" x2="335.67" y2="273.17"/>
+	<line id="R357_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="361.78" y1="261.5" x2="361.78" y2="273.17"/>
+	<line id="R369_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="365.25" y1="308.5" x2="358.5" y2="300.33"/>
+	<line id="R368_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="327.5" y1="308.5" x2="319.17" y2="300.33"/>
+	<line id="R367_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="286.5" y1="305.5" x2="280.94" y2="300.33"/>
+	<line id="R366_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="255.5" y1="298" x2="255.5" y2="305.5"/>
+	<line id="R370_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="365.25" y1="331" x2="359" y2="342"/>
+	<line id="R371_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="324.83" y1="331" x2="319.17" y2="340"/>
+	<line id="R372_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="286.5" y1="330" x2="283.72" y2="340"/>
+	<line id="R373_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="251.5" y1="330" x2="255.5" y2="340.5"/>
+	<line id="R377" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="242.5" y1="499.87" x2="245.44" y2="510.5"/>
+	<line id="R338_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="307.2" y1="499.87" x2="311" y2="508.75"/>
+	<line id="R307_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="405" y1="601.33" x2="414.5" y2="610.5"/>
+	<line id="R308_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="405.5" y1="632.5" x2="414" y2="623.83"/>
+	<line id="R309_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="406" y1="715.78" x2="411.83" y2="724"/>
+	<line id="R310_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="406" y1="751" x2="416.67" y2="745.5"/>
+	<line id="R332_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="244.89" y1="586.5" x2="244.89" y2="578.25"/>
+	<line id="R333_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="275.5" y1="586.5" x2="275.5" y2="578.25"/>
+	<line id="R334_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="304.83" y1="586.5" x2="304.83" y2="578.25"/>
+	<line id="R335_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="333.19" y1="586.5" x2="333.19" y2="578.25"/>
+	<line id="R336_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="361.78" y1="586.5" x2="361.78" y2="578.25"/>
+	<line id="R327_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="244.67" y1="611.5" x2="244.67" y2="621.5"/>
+	<line id="R328_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="275.5" y1="611.5" x2="275.5" y2="621.5"/>
+	<line id="R329_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="304.83" y1="611.5" x2="304.83" y2="621.5"/>
+	<line id="R330_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="333.19" y1="611.5" x2="333.19" y2="623.83"/>
+	<line id="R331_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="361.78" y1="611.5" x2="361.78" y2="623.83"/>
+	<line id="R326_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="243.97" y1="663" x2="244.67" y2="653.89"/>
+	<line id="R325_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="278" y1="664" x2="275.67" y2="653.89"/>
+	<line id="R324_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="304.83" y1="664.5" x2="304.83" y2="653.89"/>
+	<line id="R323_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="333.19" y1="664.5" x2="333.19" y2="653.89"/>
+	<line id="R322_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="362.12" y1="664.5" x2="361.78" y2="653.89"/>
+	<line id="R317_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="245.44" y1="690.5" x2="245.44" y2="701.22"/>
+	<line id="R318_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="275.5" y1="690.5" x2="276.83" y2="701.22"/>
+	<line id="R319_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="304.83" y1="692.5" x2="304.83" y2="704"/>
+	<line id="R320_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="333.19" y1="692.5" x2="333.19" y2="701.22"/>
+	<line id="R321_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="361.95" y1="692.5" x2="361.95" y2="701.22"/>
+	<line id="R316_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="245.44" y1="744" x2="245.44" y2="735.37"/>
+	<line id="R315_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="276.83" y1="744" x2="276.17" y2="735.37"/>
+	<line id="R314_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="304.83" y1="744" x2="304.83" y2="732.67"/>
+	<line id="R313_1_" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="333.19" y1="744" x2="333.19" y2="735.37"/>
+	<line id="R311" style="fill:none;stroke:#00FF00;stroke-miterlimit:10;" x1="361.78" y1="744" x2="361.78" y2="735.37"/>
+</g>
+<g id="Portals">
+	
+		<line id="Stair.1.floor2" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="504.5" y1="499.87" x2="514.33" y2="514.54"/>
+	
+		<line id="Stair.1.floor1" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="504.5" y1="499.87" x2="514.33" y2="514.54"/>
+	
+		<line id="Elev.1.floor2" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="416.67" y1="499.87" x2="416.67" y2="508.77"/>
+	
+		<line id="Elev.1.floor1" style="fill:none;stroke:#F15A24;stroke-miterlimit:10;" x1="416.67" y1="499.87" x2="416.67" y2="508.77"/>
+</g>
+<g id="Paths">
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="504.5" y1="499.87" x2="489.75" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="416.67" y1="476.25" x2="489.75" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="476.25" x2="416.67" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="407" y1="393" x2="389.25" y2="393"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="476.25" x2="389.25" y2="393"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="407" y1="378" x2="389.25" y2="378.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="393" x2="389.25" y2="378.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="407" y1="327.67" x2="389.25" y2="329"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="378.25" x2="389.25" y2="329"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="365.25" y1="331" x2="365.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="319.5" x2="365.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="329" x2="389.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="365.25" y1="308.5" x2="365.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="328.25" y1="319.5" x2="365.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="327.5" y1="308.5" x2="328.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="324.83" y1="331" x2="328.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="286.5" y1="319.5" x2="328.25" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="286.5" y1="305.5" x2="286.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="286.5" y1="330" x2="286.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="256.5" y1="319.5" x2="286.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="255.5" y1="304.42" x2="256.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="251.5" y1="330" x2="256.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="319.5" x2="256.5" y2="319.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="319.5" x2="390" y2="270.17"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="437.89" y1="270.17" x2="390" y2="270.17"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="392.5" y1="234" x2="391.25" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="362.12" y1="248.25" x2="391.25" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="390" y1="270.17" x2="391.25" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.78" y1="261.5" x2="362.12" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="335.67" y1="248.25" x2="362.12" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="335.67" y1="261.5" x2="335.67" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="309.1" y1="248.25" x2="335.67" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="308.83" y1="261.5" x2="309.1" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="282.05" y1="248.25" x2="309.1" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="282.05" y1="261.5" x2="282.05" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="254.5" y1="248.25" x2="282.05" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="255.5" y1="261.5" x2="254.5" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="248.25" x2="254.5" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="248.5" y1="222" x2="230.17" y2="222"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="248.25" x2="230.17" y2="222"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="319.5" x2="230.17" y2="248.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="211" y1="360.5" x2="230.17" y2="360.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="319.5" x2="230.17" y2="360.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="211.5" y1="447" x2="230.17" y2="447.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="360.5" x2="230.17" y2="447.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="319.17" y1="450" x2="319.17" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="299.2" y1="451" x2="299.2" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="319.17" y1="476.25" x2="299.2" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="307.2" y1="499.87" x2="299.2" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="242.5" y1="499.87" x2="241" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="299.2" y1="476.25" x2="241" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="230.17" y1="447.5" x2="230.17" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="241" y1="476.25" x2="230.17" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="214.12" y1="476.25" x2="230.17" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="214.12" y1="601.33" x2="214.12" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.78" y1="601.33" x2="214.12" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.67" y1="611.5" x2="244.78" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.89" y1="586.5" x2="244.78" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="275.5" y1="601.33" x2="244.78" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="275.5" y1="586.5" x2="275.5" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="275.5" y1="611.5" x2="275.5" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="601.33" x2="275.5" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="586.5" x2="304.83" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="611.5" x2="304.83" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="601.33" x2="304.83" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="611.5" x2="333.19" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="586.5" x2="333.19" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.95" y1="601.33" x2="333.19" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.78" y1="611.5" x2="361.95" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.78" y1="586.5" x2="361.95" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="601.33" x2="361.95" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="405" y1="601.33" x2="389.25" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="476.25" x2="389.25" y2="601.33"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="405.5" y1="632.5" x2="389.25" y2="632.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="601.33" x2="389.25" y2="632.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="678.75" x2="389.25" y2="632.5"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="363" y1="678.75" x2="389.25" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="362.12" y1="664.5" x2="363" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.95" y1="692.5" x2="363" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="678.75" x2="363" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="692.5" x2="333.19" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="664.5" x2="333.19" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="406" y1="715.78" x2="389.25" y2="715.78"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="678.75" x2="389.25" y2="715.78"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="406" y1="751" x2="389.25" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="715.78" x2="389.25" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="678.75" x2="333.19" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="692.5" x2="304.83" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="664.5" x2="304.83" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="276.17" y1="678.75" x2="304.83" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="278" y1="664" x2="276.17" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="275.5" y1="690.5" x2="276.17" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="244.32" y1="678.75" x2="276.17" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="245.44" y1="690.5" x2="244.32" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="243.97" y1="663" x2="244.32" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="214.12" y1="678.75" x2="244.32" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="214.12" y1="601.33" x2="214.12" y2="678.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="389.25" y1="760.75" x2="361.78" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="361.78" y1="744" x2="361.78" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="760.75" x2="361.78" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="333.19" y1="744" x2="333.19" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="760.75" x2="333.19" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="304.83" y1="744" x2="304.83" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="276.83" y1="760.75" x2="304.83" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="276.83" y1="744" x2="276.83" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="245.44" y1="760.75" x2="276.83" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="245.44" y1="744" x2="245.44" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="214.12" y1="678.75" x2="215.75" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="245.44" y1="760.75" x2="215.75" y2="760.75"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="416.67" y1="499.87" x2="416.67" y2="476.25"/>
+	<line style="fill:none;stroke:#FF00FF;stroke-miterlimit:10;" x1="319.17" y1="476.25" x2="389.25" y2="476.25"/>
+</g>
+</svg>
